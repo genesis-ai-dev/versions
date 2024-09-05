@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.91.1.24193/VSCodium-x64-1.91.1.24193.msi",
-  "name": "1.91.1.24193",
-  "version": "8512cb3341b26a5dba985a9a17eed8d7c3362886",
-  "productVersion": "1.91.1.24193",
-  "hash": "6b64521e63ab4fe9fde04a16cfb6a7fddc8749f5",
-  "timestamp": "1720723966124",
-  "sha256hash": "f5be7df6f8edf356467b0b9edf58b0e8d828ca5cf10854ef11354b28a1d0e824"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.91.1.24248/Codex-x64-1.91.1.24248.msi",
+  "name": "1.91.1.24248",
+  "version": "2a36b0547f0babe79a5d4deba2fdb2112e126f91",
+  "productVersion": "1.91.1.24248",
+  "hash": "2f7ec6e4fe401aea204e1630fb588d11854d7cad",
+  "timestamp": "1725545980414",
+  "sha256hash": "65f09ed2501240fe401ec52ffb539b3770fb5884c1cdb636186782040e9448a3"
 }
