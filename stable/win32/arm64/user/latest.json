@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.91.1.24193/VSCodiumUserSetup-arm64-1.91.1.24193.exe",
-  "name": "1.91.1.24193",
-  "version": "8512cb3341b26a5dba985a9a17eed8d7c3362886",
-  "productVersion": "1.91.1.24193",
-  "hash": "3dd7dfa6c60b663688f3c12eb07ead180d3b5cab",
-  "timestamp": "1720723336852",
-  "sha256hash": "93cc6cd21173acab1ea4b3666cf415fd4d4b08e8f6da0b730b20ab80768ab08f"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.91.1.24248/CodexUserSetup-arm64-1.91.1.24248.exe",
+  "name": "1.91.1.24248",
+  "version": "2a36b0547f0babe79a5d4deba2fdb2112e126f91",
+  "productVersion": "1.91.1.24248",
+  "hash": "f620b26b86665851b9a1a2ef0947637c83a7cde2",
+  "timestamp": "1725545270811",
+  "sha256hash": "261f211092c05116a337227a0d6809d3730ca920dd3e4c20860057cfdfd459fe"
 }
