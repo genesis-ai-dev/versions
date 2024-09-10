@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/VSCodium/vscodium/releases/download/1.91.1.24193/VSCodium-darwin-x64-1.91.1.24193.zip",
-  "name": "1.91.1.24193",
-  "version": "8512cb3341b26a5dba985a9a17eed8d7c3362886",
-  "productVersion": "1.91.1.24193",
-  "hash": "7a7b79a05a488e55dabd18a8e451921ab12a61f9",
-  "timestamp": "1720723594021",
-  "sha256hash": "f36c017a0c3c6e5dbda4ca3e675308905880d7d2f1db6a1fc5610ae5da9d4014"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.92.2.24254/Codex-darwin-x64-1.92.2.24254.zip",
+  "name": "1.92.2.24254",
+  "version": "5bf73c4809ee7d2679f6cc2cea4b2f8df939677c",
+  "productVersion": "1.92.2.24254",
+  "hash": "fe1895fe7d0c3482eeaae8555ca718ab370a6cd7",
+  "timestamp": "1725989705227",
+  "sha256hash": "132cdcad4194dda18555b8f619aa896d3a51999a1932ba39918a54efcf59c3f2"
 }
