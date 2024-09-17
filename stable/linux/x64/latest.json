@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.92.2.24254/Codex-linux-x64-1.92.2.24254.tar.gz",
-  "name": "1.92.2.24254",
-  "version": "5bf73c4809ee7d2679f6cc2cea4b2f8df939677c",
-  "productVersion": "1.92.2.24254",
-  "hash": "094e0063ddcc7b4c8aa47ed8d70e86ae1edc34d1",
-  "timestamp": "1726010457972",
-  "sha256hash": "bb72b4f8258143a9730563f14e97cac992289d641b73fccaccc7c7c25135ef3b"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.93.0.24261/Codex-linux-x64-1.93.0.24261.tar.gz",
+  "name": "1.93.0.24261",
+  "version": "b8dad921911d2054c7c527f5527b2a71419fffe9",
+  "productVersion": "1.93.0.24261",
+  "hash": "0c5e2049d4406992b7a8f74fb8a744874d5e92b7",
+  "timestamp": "1726603945403",
+  "sha256hash": "7be04d17f30caa6baa0978101b8a9918f17771f845561af9a4afba933fe1e78d"
 }
