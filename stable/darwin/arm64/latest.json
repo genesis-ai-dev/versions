@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.92.2.24254/Codex-darwin-arm64-1.92.2.24254.zip",
-  "name": "1.92.2.24254",
-  "version": "5bf73c4809ee7d2679f6cc2cea4b2f8df939677c",
-  "productVersion": "1.92.2.24254",
-  "hash": "6a2482c6fea2375538209c24db7ac9ce912a041e",
-  "timestamp": "1725989239169",
-  "sha256hash": "86d8b37eff1865407a12a1ab62120a33b9293c8d4a791a8d97c8959ec136135f"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.93.0.24261/Codex-darwin-arm64-1.93.0.24261.zip",
+  "name": "1.93.0.24261",
+  "version": "b8dad921911d2054c7c527f5527b2a71419fffe9",
+  "productVersion": "1.93.0.24261",
+  "hash": "121078727a91f446b353f03adc71674223a42715",
+  "timestamp": "1726603640403",
+  "sha256hash": "94690fa2a7ec336baf393e38f2ef8f44a58afe731ac8933d12cd14f1c53a5a6c"
 }
