@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.96.4.25043/Codex-win32-x64-1.96.4.25043.zip",
-  "name": "1.96.4.25043",
-  "version": "2fb16470d0376bbc7d004f0628d3ebd6c3f0b257",
-  "productVersion": "1.96.4.25043",
-  "hash": "f2228e1ac943f61bef77a456550854ff7c15134b",
-  "timestamp": "1739327970182",
-  "sha256hash": "93317b99fe1e9f5bcab2e88fceeb1a1721c1e0098a54ccfd516484cf733a9302"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.0.25048/Codex-win32-x64-1.97.0.25048.zip",
+  "name": "1.97.0.25048",
+  "version": "be2efb553d5a306cc1fe39d0bc180b9e30392cc0",
+  "productVersion": "1.97.0.25048",
+  "hash": "dfbddd6d4080d7c1a8e5f426d7c53638452d4d1d",
+  "timestamp": "1739812647723",
+  "sha256hash": "c784360e49602f79229106aa194faefc4589973c4943250dde681e5965e537b5"
 }
