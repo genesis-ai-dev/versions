@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.0.25048/CodexSetup-x64-1.97.0.25048.exe",
-  "name": "1.97.0.25048",
-  "version": "be2efb553d5a306cc1fe39d0bc180b9e30392cc0",
-  "productVersion": "1.97.0.25048",
-  "hash": "39e0522af9d5ac4c011adecc44a8320433e85a62",
-  "timestamp": "1739812647271",
-  "sha256hash": "c897bde7966ac01859cdd10f21a7ec7a1d1f453599fbf4969dedd63b390a6a6f"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.2.25085/CodexSetup-x64-1.97.2.25085.exe",
+  "name": "1.97.2.25085",
+  "version": "0fb09eede7e80e4cd105ba9b34baacd66062d380",
+  "productVersion": "1.97.2.25085",
+  "hash": "49294867d66c13fd224c65f5a8601eadbec0f6e5",
+  "timestamp": "1743033863028",
+  "sha256hash": "ccdc5b59012e298c0ed64225dc1066dcf051f4d4a216c70eacd0280681e00ab7"
 }

@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.0.25048/Codex-x64-1.97.0.25048.msi",
-  "name": "1.97.0.25048",
-  "version": "be2efb553d5a306cc1fe39d0bc180b9e30392cc0",
-  "productVersion": "1.97.0.25048",
-  "hash": "d3e7f40660ce87cd33962b741eecf2037dd4410e",
-  "timestamp": "1739812647941",
-  "sha256hash": "85aa81336c167b4d7adb5bff895048b442185c47e5e45ff4d4ce175b2ebde904"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.2.25085/Codex-x64-1.97.2.25085.msi",
+  "name": "1.97.2.25085",
+  "version": "0fb09eede7e80e4cd105ba9b34baacd66062d380",
+  "productVersion": "1.97.2.25085",
+  "hash": "0afbdb6daa1aa6d5a59ed01c6b532991e29ba927",
+  "timestamp": "1743033863683",
+  "sha256hash": "a3b55bd846eecee3a8695ce4a8d59556a4c17596adfec4f677d624f9ca9e6dbd"
 }
