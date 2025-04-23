@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.2.25085/Codex-linux-armhf-1.97.2.25085.tar.gz",
-  "name": "1.97.2.25085",
-  "version": "0fb09eede7e80e4cd105ba9b34baacd66062d380",
-  "productVersion": "1.97.2.25085",
-  "hash": "eeda43f268b8fa05f287e4b66f996eed93bf1579",
-  "timestamp": "1743032710769",
-  "sha256hash": "99e40855f4bf37fe90948665ccd07e7f802981335859cd4441d0bd986881cc26"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/Codex-linux-armhf-1.99.22712.tar.gz",
+  "name": "1.99.22712",
+  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
+  "productVersion": "1.99.22712.0",
+  "hash": "16ee0a8468879511d754499849f536e40123c052",
+  "timestamp": "1745369214365",
+  "sha256hash": "ed046c1242f9eaba674fb5867284b8ae71058ec0a95a15fbfc94d740f20e33d7"
 }
