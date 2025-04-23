@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.97.2.25085/Codex-darwin-x64-1.97.2.25085.zip",
-  "name": "1.97.2.25085",
-  "version": "0fb09eede7e80e4cd105ba9b34baacd66062d380",
-  "productVersion": "1.97.2.25085",
-  "hash": "7576de918314369b49b9fdcdccc5ac0b7c3b696a",
-  "timestamp": "1743033177353",
-  "sha256hash": "dfb361a823f0d967bccf1113af04a7ee7d254d597e70ec44fee19e426e7b4dd6"
+  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/Codex-darwin-x64-1.99.22712.zip",
+  "name": "1.99.22712",
+  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
+  "productVersion": "1.99.22712.0",
+  "hash": "6b48998c75fae9bb93dd3375b6e6a8ff39d86a5e",
+  "timestamp": "1745370255268",
+  "sha256hash": "a24f4ad00f0add339ea2e9edca68469605e2767622d9b994f5e54f18fee8c92c"
 }
