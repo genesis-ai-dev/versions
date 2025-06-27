@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24289/Codex-darwin-arm64-1.99.24289.zip",
-  "name": "1.99.24289",
-  "version": "ef7ae67a8ac8dacb85a9a42d93993b723d8e1c3d",
-  "productVersion": "1.99.24289.0",
-  "hash": "5f40651ddaef0ab071fca5348d32387f6cdae630",
-  "timestamp": "1751045986925",
-  "sha256hash": "55cbab53dad61d335122865c295518629152ef8d2dc73d8cfd48bfded68f3faa"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24291/Codex-darwin-arm64-1.99.24291.zip",
+  "name": "1.99.24291",
+  "version": "2f623a11327ff3af1f0679f3714fdcf66473a1cb",
+  "productVersion": "1.99.24291.0",
+  "hash": "b6dc4bfb0a29c98a756d4aaf18a40a1679da6eb9",
+  "timestamp": "1751054157660",
+  "sha256hash": "e3c6ea7aa2feffa32e63e34219aa0e7ef02197b3f2d1917090c394bbd0a359d6"
 }
