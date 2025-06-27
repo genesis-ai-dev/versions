@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/Codex-linux-x64-1.99.22712.tar.gz",
-  "name": "1.99.22712",
-  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
-  "productVersion": "1.99.22712.0",
-  "hash": "2dfdf716dbf07225bb7f197dc9d20bcdcb5e4d4d",
-  "timestamp": "1745369401723",
-  "sha256hash": "bce4225fdac0c62f396b4b48330af74961dc57bd2b0556a3117e4820f3d2f22d"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24285/Codex-linux-x64-1.99.24285.tar.gz",
+  "name": "1.99.24285",
+  "version": "04a8734eade5516d915ed7a9009e452504a8009b",
+  "productVersion": "1.99.24285.0",
+  "hash": "b0dd84142473981c6c3004a19281df88cd777650",
+  "timestamp": "1751032019150",
+  "sha256hash": "2ef73f23daba1c1d4641b58a24c95f216b060bebf082f316b7c0477d2ff8cf5c"
 }
