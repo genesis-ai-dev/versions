@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/Codex-x64-1.99.22712.msi",
-  "name": "1.99.22712",
-  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
-  "productVersion": "1.99.22712.0",
-  "hash": "8a200195851dbcb7faee6e624cf85e91e3d66eb2",
-  "timestamp": "1745370908717",
-  "sha256hash": "f122ef9198684d17f259e46136d6a4670e122b57fc75b56c7be98552d167959b"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24286/Codex-x64-1.99.24286.msi",
+  "name": "1.99.24286",
+  "version": "0cf2f44ee1e6c306e3d854000a3cb342b5e353e3",
+  "productVersion": "1.99.24286.0",
+  "hash": "bb8ffdd9615871eb6b385c59d47d47d5243b91b2",
+  "timestamp": "1751037709451",
+  "sha256hash": "5f879d5ccd794fbc899bfcacfd0854219c968ed51ccbaa36b749d1a657349bf3"
 }

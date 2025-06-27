@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/Codex-x64-updates-disabled-1.99.22712.msi",
-  "name": "1.99.22712",
-  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
-  "productVersion": "1.99.22712.0",
-  "hash": "caa1232eef0833ebd7de779a3cca338ce013671e",
-  "timestamp": "1745370908936",
-  "sha256hash": "c12f5199ee6d228a7db6bc214950401f8061ebbfd0ff875e3d8e27b7db2d4914"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24286/Codex-x64-updates-disabled-1.99.24286.msi",
+  "name": "1.99.24286",
+  "version": "0cf2f44ee1e6c306e3d854000a3cb342b5e353e3",
+  "productVersion": "1.99.24286.0",
+  "hash": "351117a3b36d39db6edc1d213f2f3c7e6c550967",
+  "timestamp": "1751037709682",
+  "sha256hash": "eb93de11bc09ffd6df89b866089c24b45f93cf9f681bb90020c9432cacd8fafa"
 }

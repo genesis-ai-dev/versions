@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/Codex-win32-x64-1.99.22712.zip",
-  "name": "1.99.22712",
-  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
-  "productVersion": "1.99.22712.0",
-  "hash": "56b38ba05809e50442029437f385dd7b180b831a",
-  "timestamp": "1745370908498",
-  "sha256hash": "ab0a621d9505bb7642047cd6a354c3bd69c51d4b36d9bfa0e4138e12c102af8e"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24286/Codex-win32-x64-1.99.24286.zip",
+  "name": "1.99.24286",
+  "version": "0cf2f44ee1e6c306e3d854000a3cb342b5e353e3",
+  "productVersion": "1.99.24286.0",
+  "hash": "bc4bbb1937ca1491957c26df67eb500eca4bd15e",
+  "timestamp": "1751037709230",
+  "sha256hash": "a6e30928bcfaf88e115bee1c9cf19aedb9c96f0cfacc8415c00e2f97aa58f55d"
 }

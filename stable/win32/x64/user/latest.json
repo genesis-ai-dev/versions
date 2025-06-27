@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/BiblioNexus-Foundation/codex/releases/download/1.99.22712/CodexUserSetup-x64-1.99.22712.exe",
-  "name": "1.99.22712",
-  "version": "2e929240dcee8a08c6d647aa3476629a135d3464",
-  "productVersion": "1.99.22712.0",
-  "hash": "2acf469a2cc80c5c3925136d5d881bfd4d41a957",
-  "timestamp": "1745370908295",
-  "sha256hash": "11e3c48a9c7310648a4240e12e3f457246b9f8fc86af7fdab68630e53eb5b465"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24286/CodexUserSetup-x64-1.99.24286.exe",
+  "name": "1.99.24286",
+  "version": "0cf2f44ee1e6c306e3d854000a3cb342b5e353e3",
+  "productVersion": "1.99.24286.0",
+  "hash": "d617f1ccffb75f53ceb1794b1da60b26adac438f",
+  "timestamp": "1751037709011",
+  "sha256hash": "d1093a267db5791f11bb7b241779541bdca019433e4bf6f8cbcef76e2b34a0f3"
 }
