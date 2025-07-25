@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24291/Codex-x64-updates-disabled-1.99.24291.msi",
-  "name": "1.99.24291",
-  "version": "2f623a11327ff3af1f0679f3714fdcf66473a1cb",
-  "productVersion": "1.99.24291.0",
-  "hash": "152716d05f0bb15c6467a70ca31288cf39837aae",
-  "timestamp": "1751056069944",
-  "sha256hash": "891b98de8371445dd4dfebcd99c652165f545990227cf5ca6ea18cd0363dce75"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24959/Codex-x64-updates-disabled-1.99.24959.msi",
+  "name": "1.99.24959",
+  "version": "9c4275974e96b1535aa68da2b70f450e62cf86b5",
+  "productVersion": "1.99.24959.0",
+  "hash": "15894bedcf61cd346b54b9d45dc485347ddc2b48",
+  "timestamp": "1753460493324",
+  "sha256hash": "c3f4a541c33c3f6273e5f59eb14bec376c1a5a3cf160e7029bba131f793956de"
 }

@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24291/CodexSetup-x64-1.99.24291.exe",
-  "name": "1.99.24291",
-  "version": "2f623a11327ff3af1f0679f3714fdcf66473a1cb",
-  "productVersion": "1.99.24291.0",
-  "hash": "5d8bf65293e628ee1925a776b420153c937e8776",
-  "timestamp": "1751056068973",
-  "sha256hash": "ca8395c94fc40888e8e208a52dc53f7d7fa0c4fdb8e94d9fe7ccbcd15a744b7c"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.99.24959/CodexSetup-x64-1.99.24959.exe",
+  "name": "1.99.24959",
+  "version": "9c4275974e96b1535aa68da2b70f450e62cf86b5",
+  "productVersion": "1.99.24959.0",
+  "hash": "02a5920440bd12ea923bf1a99d1bc1830106faec",
+  "timestamp": "1753460492340",
+  "sha256hash": "00185d58c71e287fa6be9fe5973fedd9314dc67e256e6f07f455392c8e888396"
 }
