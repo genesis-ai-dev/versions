@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.11074/Codex-win32-arm64-1.108.11074.zip",
-  "name": "1.108.11074",
-  "version": "160c26724d269d89849f93b286d1d536c387af8c",
-  "productVersion": "1.108.11074.0",
-  "hash": "800c4d1ed64482bd53a3f450f8703b1371ab9e34",
-  "timestamp": "1771009634942",
-  "sha256hash": "88d941b461b0c27370e4627bf41c12dc644352b8483267eef9109a306da4ac18"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.11148/Codex-win32-arm64-1.108.11148.zip",
+  "name": "1.108.11148",
+  "version": "0a4e295280921bfad2ac71ce4e31e0602cbe0196",
+  "productVersion": "1.108.11148.0",
+  "hash": "d02f0cc43d5921563a26bfabe113dbc1be9b6643",
+  "timestamp": "1771275528135",
+  "sha256hash": "cb39e8f5735e6bcfcaba8180d483f3b088f2f06396250d41873482d78df6adee"
 }
