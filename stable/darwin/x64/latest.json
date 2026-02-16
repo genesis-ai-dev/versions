@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.11074/Codex-darwin-x64-1.108.11074.zip",
-  "name": "1.108.11074",
-  "version": "160c26724d269d89849f93b286d1d536c387af8c",
-  "productVersion": "1.108.11074.0",
-  "hash": "2b02cb87a9066a7329f98b39226cc4f7bfc6a434",
-  "timestamp": "1771010357967",
-  "sha256hash": "c1a367c23e1bc6056be53522e5e7609696aaba493af79bd1789bef091e2c321a"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.11148/Codex-darwin-x64-1.108.11148.zip",
+  "name": "1.108.11148",
+  "version": "0a4e295280921bfad2ac71ce4e31e0602cbe0196",
+  "productVersion": "1.108.11148.0",
+  "hash": "8def7108a856244eee73e3d00d9e3efc1aac89db",
+  "timestamp": "1771275872963",
+  "sha256hash": "2ab2b5571d0dc10a5ed99dd8aff5a1cd9ba2ff55a5c1715ce7932f8b83bbdbac"
 }
