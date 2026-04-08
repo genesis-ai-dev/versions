@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.11148/Codex-linux-armhf-1.108.11148.tar.gz",
-  "name": "1.108.11148",
-  "version": "0a4e295280921bfad2ac71ce4e31e0602cbe0196",
-  "productVersion": "1.108.11148.0",
-  "hash": "cff253c56081c6734cd3b5284cfb7df1b6dec28f",
-  "timestamp": "1771274878963",
-  "sha256hash": "8f7166a380b904564bd119a075681a75db5518deadf00100ebea36315fd0dac0"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12372/Codex-linux-armhf-1.108.12372.tar.gz",
+  "name": "1.108.12372",
+  "version": "5f2ae871077863338db8786c21c75f932c84a165",
+  "productVersion": "1.108.12372.0",
+  "hash": "1ab0e55fdf5e5a6ff1bdeb86c26eb8e152767072",
+  "timestamp": "1775681003763",
+  "sha256hash": "9f1af959960e14f6577b15b4b44a342666ba5eb9da10913f55da6177f1d9e721"
 }
