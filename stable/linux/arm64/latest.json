@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12372/Codex-linux-arm64-1.108.12372.tar.gz",
-  "name": "1.108.12372",
-  "version": "5f2ae871077863338db8786c21c75f932c84a165",
-  "productVersion": "1.108.12372.0",
-  "hash": "cb3f546329d1c1b223f4022e89f4a523f0aed17b",
-  "timestamp": "1775681012933",
-  "sha256hash": "0253cfb2dfcec679e10dd673bb3c3e7b8533c7a00bee77a857449e643ee0c92c"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12374/Codex-linux-arm64-1.108.12374.tar.gz",
+  "name": "1.108.12374",
+  "version": "499b04632f4ffa5e9d41af0ecf4a18310cbe1d72",
+  "productVersion": "1.108.12374.0",
+  "hash": "dc393f38df9c6142da0b5b701f6d860b0e20c1da",
+  "timestamp": "1775687169281",
+  "sha256hash": "fbca0f28c8d74eac76cfff773dd6db4f12c1529b2e27ea1462963ab4ec07b38d"
 }
