@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12372/CodexUserSetup-arm64-1.108.12372.exe",
-  "name": "1.108.12372",
-  "version": "5f2ae871077863338db8786c21c75f932c84a165",
-  "productVersion": "1.108.12372.0",
-  "hash": "c26ccde584ea42bb3b32e6aee2bd390e1dec481e",
-  "timestamp": "1775681832229",
-  "sha256hash": "3740c6aafb414f05a02b8f7dca6715ff8dd13181a59b6f71f7d2190d100a6423"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12374/CodexUserSetup-arm64-1.108.12374.exe",
+  "name": "1.108.12374",
+  "version": "499b04632f4ffa5e9d41af0ecf4a18310cbe1d72",
+  "productVersion": "1.108.12374.0",
+  "hash": "33d919959f5a62c56696d7059df9fb1199463ab3",
+  "timestamp": "1775688145276",
+  "sha256hash": "d5f3a55b4dc27d5d58cc94ab7e159e300ee2252d25011b44c9ca81e1871a4f14"
 }
