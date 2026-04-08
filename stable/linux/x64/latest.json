@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12372/Codex-linux-x64-1.108.12372.tar.gz",
-  "name": "1.108.12372",
-  "version": "5f2ae871077863338db8786c21c75f932c84a165",
-  "productVersion": "1.108.12372.0",
-  "hash": "b0b25ed2e3cea766b7f7972790a9ec4e2d80de32",
-  "timestamp": "1775680950181",
-  "sha256hash": "9ec4af997c383bb5a0df5412a6ab0e5d82ab2c914652978666377f66b066d664"
+  "url": "https://github.com/genesis-ai-dev/codex/releases/download/1.108.12374/Codex-linux-x64-1.108.12374.tar.gz",
+  "name": "1.108.12374",
+  "version": "499b04632f4ffa5e9d41af0ecf4a18310cbe1d72",
+  "productVersion": "1.108.12374.0",
+  "hash": "94eca7dd03e655506148a44c81e9bc2c36b07836",
+  "timestamp": "1775687052794",
+  "sha256hash": "96ccc5ac2b1e03e7116bf8b34c46669d4719fe973de7335024231536f77c9bae"
 }
